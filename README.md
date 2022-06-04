@@ -1,5 +1,8 @@
 # ExtendedColor.jl
 
+<img src="https://i.imgur.com/JDn6AiH.png" align="right">
+
+
 ExtendedColor module for Julia.
 
 Exports the following functions:
@@ -13,4 +16,3 @@ Exports the following functions:
 - `reverse()` - set reverse attribute
 - `reset()` - reset attributes
 
-<img src="https://i.imgur.com/JDn6AiH.png" align="right">
