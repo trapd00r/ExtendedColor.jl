@@ -1,0 +1,4 @@
+name = "ExtendedColor"
+uuid = "35c813f8-84a8-4e9e-8508-3d0ed930f363"
+authors = ["Magnus Woldrich <magnus.woldrich@gmail.com>"]
+version = "0.1.0"
